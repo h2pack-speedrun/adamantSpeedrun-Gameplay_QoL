@@ -1,21 +1,32 @@
 # Gameplay QoL
 
-Gameplay quality-of-life options for the Speedrun modpack.
+Gameplay QoL collects optional gameplay quality-of-life changes for speedrun routing and practice.
 
-Part of the [Speedrun modpack](https://github.com/h2pack-speedrun/speedrun-modpack).
+Part of the [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/).
 
 ## What It Does
 
-SCAFFOLD_TODO: Explain what this module lets players control.
+Gameplay QoL lets you enable small run-flow and routing helpers without changing the broader balance package.
+
+Current options:
+
+- Familiar Delay Fix
+- Miniboss Encounter Fix
+- Corrosion Fix
+- Skip Gem Boss Reward
+- Prevent Echo Scam
+- Disable Selene Before First Boon
+- Disable Arachne Pity
+- Force Arachne Spawn
+- Force Medea Spawn
+- Incrementing Fig Leaf
 
 ## Gameplay Impact
 
-SCAFFOLD_TODO: Explain how this module changes a run when enabled.
+These options can affect room flow, NPC routing, reward timing, or keepsake behavior. Each option is individually configurable from the shared Speedrun settings window.
 
-## How To Use
+## Installation
 
-Install using r2modman. In game, open the Speedrun menu and configure this module from the shared settings window.
+Install via r2modman.
 
-## More Information
-
-- [Speedrun modpack](https://github.com/h2pack-speedrun/speedrun-modpack)
+This module is usually installed as part of the full [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/), where it appears in the shared Speedrun UI with the other speedrun-focused modules.
