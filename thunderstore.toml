@@ -2,11 +2,11 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "adamant"
-name = "Speedrun_Gameplay_QoL"
+namespace = "adamantSpeedrun"
+name = "Gameplay_QoL"
 description = "Gameplay quality-of-life options for the Speedrun modpack."
 versionNumber = "0.0.1"
-websiteUrl = "https://github.com/h2pack-speedrun/adamant-Speedrun_Gameplay_QoL"
+websiteUrl = "https://github.com/h2pack-speedrun/adamantSpeedrun-Gameplay_QoL"
 containsNsfwContent = false
 
 [package.dependencies]
