@@ -2,7 +2,7 @@
 
 Gameplay QoL collects optional gameplay quality-of-life changes for speedrun routing and practice.
 
-Part of the [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/).
+Part of the [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Modpack/).
 
 ## What It Does
 
@@ -29,4 +29,4 @@ These options can affect room flow, NPC routing, reward timing, or keepsake beha
 
 Install via r2modman.
 
-This module is usually installed as part of the full [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/), where it appears in the shared Speedrun UI with the other speedrun-focused modules.
+This module is usually installed as part of the full [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Modpack/), where it appears in the shared Speedrun UI with the other speedrun-focused modules.
