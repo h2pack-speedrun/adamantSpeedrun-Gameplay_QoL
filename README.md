@@ -11,19 +11,25 @@ Gameplay QoL lets you enable small run-flow and routing helpers without changing
 Current options:
 
 - Familiar Delay Fix
+  Fixes Familiars being summoned after a delay upon entering a room.
 - Miniboss Encounter Fix
+  Fixes minibosses with top-screen health bars not properly progressing biome depth.
 - Corrosion Fix
+  Fixes Corrosion aggroing enemies on Thessaly boats.
 - Skip Gem Boss Reward
+  Stops bosses from dropping gem rewards when using Grave Thirst.
 - Prevent Echo Scam
+  Blocks both Fields minibosses from spawning in room 3 to prevent Echo scam.
 - Disable Selene Before First Boon
+  Prevents Selene from spawning before the first boon is obtained.
 - Disable Arachne Pity
+  Disables Arachne pity entirely for Any Fear runs.
 - Force Arachne Spawn
+  Forces Arachne to spawn to reduce death pity reset.
 - Force Medea Spawn
+  Forces Medea to spawn to reduce death pity reset.
 - Incrementing Fig Leaf
-
-## Gameplay Impact
-
-These options can affect room flow, NPC routing, reward timing, or keepsake behavior. Each option is individually configurable from the shared Speedrun settings window.
+  Dionysus skip chance starts at the default value (37%), increases by 13% after every encounter, and resets on biome start.
 
 ## Installation
 

@@ -34,7 +34,7 @@ local function init()
         modpack = PACK_ID,
         id = MODULE_ID,
         name = "Gameplay QoL",
-        shortName = "GameplayQoL",
+        shortName = "Gameplay QoL",
         tooltip = "Gameplay quality-of-life options for the Speedrun modpack.",
     })
     if not module then
