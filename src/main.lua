@@ -17,7 +17,7 @@ lib = mods["adamant-ModpackLib"]
 local config = chalk.auto("config.lua")
 
 local PACK_ID = "speedrun"
-local MODULE_ID = "GameplayQoL"
+local MODULE_ID = "Gameplay_QoL"
 local PLUGIN_GUID = _PLUGIN.guid
 
 local function init()
