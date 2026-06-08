@@ -28,7 +28,7 @@ return {
                     return baseFunc(currentRun, currentRoom, currentEncounter)
                 end
                 baseFunc(currentRun, currentRoom, currentEncounter)
-                if currentEncounter == currentRoom.Encounter or currentEncounter == MapState.EncounterOverride then
+                if currentEncounter == currentRoom.Encounter then
                     if HeroHasTrait("PersistentDionysusSkipKeepsake") then
                         local traitData = GetHeroTrait("PersistentDionysusSkipKeepsake")
                         if traitData.SkipEncounterChance and traitData.SkipEncounterGrowthPerRoom then

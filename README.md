@@ -14,8 +14,6 @@ Current options:
   Fixes Familiars being summoned after a delay upon entering a room.
 - Miniboss Encounter Fix
   Fixes minibosses with top-screen health bars not properly progressing biome depth.
-- Corrosion Fix
-  Fixes Corrosion aggroing enemies on Thessaly boats.
 - Skip Gem Boss Reward
   Stops bosses from dropping gem rewards when using Grave Thirst.
 - Prevent Echo Scam

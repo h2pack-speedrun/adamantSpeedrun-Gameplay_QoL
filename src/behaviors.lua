@@ -17,7 +17,6 @@ local function register(path)
     end
 end
 
-register("behaviors/CorrosionFix.lua")
 register("behaviors/FamiliarDelayFix.lua")
 register("behaviors/MiniBossEncounterFix.lua")
 register("behaviors/SkipGemBossReward.lua")
