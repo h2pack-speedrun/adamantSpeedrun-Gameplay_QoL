@@ -11,9 +11,9 @@ Gameplay QoL lets you enable small run-flow and routing helpers without changing
 Current options:
 
 - Familiar Delay Fix
-  Fixes Familiars being summoned after a delay upon entering a room.
+  Shorten the delay before Familiars are summoned upon entering a room.
 - Miniboss Encounter Fix
-  Fixes minibosses with top-screen health bars not properly progressing biome depth.
+  Fixes minibosses with top-screen health bars (like Charybdis/Ephyra Boar/Talos/Summit minibosses) not properly progressing biome depth.
 - Skip Gem Boss Reward
   Stops bosses from dropping gem rewards when using Grave Thirst.
 - Prevent Echo Scam
