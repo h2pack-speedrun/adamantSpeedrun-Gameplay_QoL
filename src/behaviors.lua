@@ -17,14 +17,13 @@ local function register(path)
     end
 end
 
-register("behaviors/FamiliarDelayFix.lua")
-register("behaviors/MiniBossEncounterFix.lua")
 register("behaviors/SkipGemBossReward.lua")
 register("behaviors/PreventEchoScam.lua")
-register("behaviors/DisableSeleneBeforeBoon.lua")
 register("behaviors/DisableArachnePity.lua")
 register("behaviors/ForceArachne.lua")
 register("behaviors/ForceMedea.lua")
 register("behaviors/EscalatingFigLeaf.lua")
+register("behaviors/DisableCharybdis.lua")
+register("behaviors/RemoveSurfaceHeracles.lua")
 
 return behaviors
