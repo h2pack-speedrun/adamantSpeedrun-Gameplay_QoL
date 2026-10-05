@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [5.0.0] - 2026-10-05
+
+### Added
+
+- add Disable Charybdis, move Remove Thessaly Heracles, drop Familiar/Miniboss/Selene options (9708a25)
+
+### Documentation
+
+- refine package description (
+adff44)
+
 ## [3.0.0] - 2026-06-12
 
 ### Changed
