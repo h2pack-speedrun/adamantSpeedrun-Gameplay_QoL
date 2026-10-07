@@ -12,6 +12,7 @@ Current options:
 
 - **Skip Gem Boss Reward:** Stops bosses from dropping gem rewards when using Grave Thirst.
 - **Prevent Echo Scam:** Blocks both Fields minibosses from spawning in room 3 to prevent Echo scam.
+- **No Selene in First Room:** Removes Selene from the reward roster of the first room of a run, including Dream Dive starts.
 - **Disable Arachne Pity:** Disables Arachne pity entirely for Any Fear runs.
 - **Force Arachne Spawn:** Forces Arachne to spawn to reduce death pity reset.
 - **Force Medea Spawn:** Forces Medea to spawn to reduce death pity reset.

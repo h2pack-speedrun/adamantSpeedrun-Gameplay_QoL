@@ -23,6 +23,7 @@ register("behaviors/DisableArachnePity.lua")
 register("behaviors/ForceArachne.lua")
 register("behaviors/ForceMedea.lua")
 register("behaviors/EscalatingFigLeaf.lua")
+register("behaviors/DisableSeleneFirstRoom.lua")
 register("behaviors/DisableCharybdis.lua")
 register("behaviors/RemoveSurfaceHeracles.lua")
 
