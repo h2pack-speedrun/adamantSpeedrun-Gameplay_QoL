@@ -12,13 +12,14 @@ Current options:
 
 - **Skip Gem Boss Reward:** Stops bosses from dropping gem rewards when using Grave Thirst.
 - **Prevent Echo Scam:** Blocks both Fields minibosses from spawning in room 3 to prevent Echo scam.
-- **No Selene in First Room:** Removes Selene from the reward roster of the first room of a run, including Dream Dive starts.
+- **No Selene in First Room:** Removes Selene from the reward roster of the first room of a run.
 - **Disable Arachne Pity:** Disables Arachne pity entirely for Any Fear runs.
 - **Force Arachne Spawn:** Forces Arachne to spawn to reduce death pity reset.
 - **Force Medea Spawn:** Forces Medea to spawn to reduce death pity reset.
 - **Incrementing Fig Leaf:** Dionysus skip chance starts at the default value (37%), increases by 13% after every encounter, and resets on biome start.
-- **Disable Charybdis:** Prevents the Charybdis miniboss room from appearing on Thessaly.
-- **Remove Thessaly Heracles:** Removes Heracles encounter options from Thessaly.
+- **Disable Charybdis:** Prevents Charybdis from appearing on Thessaly.
+- **Remove Thessaly Heracles:** Removes Heracles encounter from Thessaly.
+- **Jeweled Pom Boon:** Chooses which Hades boon the Jeweled Pom grants. Falls back to a random Hades boon if the chosen one is not eligible (Last Gasp).
 
 ## Installation
 
