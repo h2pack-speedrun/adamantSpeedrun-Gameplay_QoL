@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [5.2.0] - 2026-10-08
+
+### Added
+
+- add Jeweled Pom Boon option (6f3d57a)
+
 ## [5.1.0] - 2026-10-08
 
 ### Added
