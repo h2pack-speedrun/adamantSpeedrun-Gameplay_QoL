@@ -14,7 +14,7 @@ return {
         type = "checkbox",
         alias = "FixZagreusTimerFreeze",
         label = "Fix Zagreus Timer Freeze",
-        default = false,
+        default = true,
         tooltip =
         "Resumes the run timer when Zagreus is killed right after he rises again, which otherwise leaves it paused for the rest of the run."
     },
