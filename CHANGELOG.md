@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [5.3.0] - 2026-10-10
+
+### Added
+
+- block the Codex, Inventory and trait Info while the timer runs (
+d7a100)
+- enable the Zagreus timer freeze fix by default (
+385dba)
+- add the Zagreus timer freeze fix (
+2d13f0)
+
 ## [5.2.0] - 2026-10-08
 
 ### Added
