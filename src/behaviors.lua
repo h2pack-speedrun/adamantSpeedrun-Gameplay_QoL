@@ -28,5 +28,6 @@ register("behaviors/DisableCharybdis.lua")
 register("behaviors/RemoveSurfaceHeracles.lua")
 register("behaviors/JeweledPomBoon.lua")
 register("behaviors/FixZagreusTimerFreeze.lua")
+register("behaviors/BlockMenusWhileTiming.lua")
 
 return behaviors
