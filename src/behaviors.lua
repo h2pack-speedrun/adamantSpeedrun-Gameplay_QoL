@@ -27,5 +27,6 @@ register("behaviors/DisableSeleneFirstRoom.lua")
 register("behaviors/DisableCharybdis.lua")
 register("behaviors/RemoveSurfaceHeracles.lua")
 register("behaviors/JeweledPomBoon.lua")
+register("behaviors/FixZagreusTimerFreeze.lua")
 
 return behaviors
