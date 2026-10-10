@@ -14,7 +14,7 @@ return {
     option = {
         type = "checkbox",
         alias = "BlockMenusWhileTiming",
-        label = "Block Menus While Timing",
+        label = "Disable Codex and Inventory when IGT is active",
         default = true,
         tooltip =
         "The Codex, Inventory and trait Info screens pause the in-game timer, so during a run they can only be opened while it is already paused."

@@ -21,7 +21,7 @@ Current options:
 - **Remove Thessaly Heracles:** Removes Heracles encounter from Thessaly.
 - **Jeweled Pom Boon:** Chooses which Hades boon the Jeweled Pom grants. Falls back to a random Hades boon if the chosen one is not eligible (Last Gasp).
 - **Fix Zagreus Timer Freeze:** Resumes the run timer when Zagreus is killed right after he rises again; vanilla leaves it paused for the rest of the run.
-- **Block Menus While Timing:** The Codex, Inventory and trait Info screens pause the in-game timer, so during a run they can only be opened while the timer is already paused. On by default as a leaderboard rule.
+- **Disable Codex and Inventory when IGT is active:** The Codex, Inventory and trait Info screens pause the in-game timer, so during a run they can only be opened while the timer is already paused. On by default as a leaderboard rule.
 
 ## Installation
 
